@@ -2,6 +2,7 @@
 Simple Dashboard using Amazon QuickSight for Netflix Titles Data from Kaggle
 
 This project was an excellent opportunity to:
+
 •	Connect to a dataset stored on Amazon S3 for seamless data integration.
 •	Use QuickSight's powerful visualization tools to uncover trends in genres, release years, and more.
 •	Develop actionable insights about Netflix's content library, all while improving my skills in cloud-native analytics.
